@@ -6,8 +6,9 @@
     font-family: 'FonteLogo';
     src: url("../_fonts/bubblegum-sans-regular.otf");
     }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: Roboto, Helvetica, Arial, sans-serif;
             background-color: #dddddd;
             color: rgba(0,0,0,1);
         }
